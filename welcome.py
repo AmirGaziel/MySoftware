@@ -2,3 +2,4 @@
 
 def welcome():
 	print("New Screen")
+welcom()
