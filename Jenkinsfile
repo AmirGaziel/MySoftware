@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Click') {
             steps {
-                sh 'python3 Click.py'
+                sh 'python3 Click.Py'
             }
         }
         stage('NewScreen') {
