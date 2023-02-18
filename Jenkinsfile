@@ -10,7 +10,7 @@ pipeline {
         }
         stage('NewScreen') {
             steps {
-                sh 'python3 NewScreen.py'
+                sh 'python3 welcom.py'
             }
         }
 
